@@ -11,5 +11,5 @@ when was refusing to run i go to this link , and change value and value-night: h
 ![info](https://github.com/user-attachments/assets/339327d3-9352-41e8-b0f2-6b656e115adc)
 ![pay](https://github.com/user-attachments/assets/2f8e223d-e006-4833-b8ce-0358811227ec)
 
-
+THANKS
 
