@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "964212159005",
+    "project_id": "mahsapark-9a3a7",
+    "storage_bucket": "mahsapark-9a3a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964212159005:android:575fa4cb83196526a0ccf4",
+        "android_client_info": {
+          "package_name": "com.example.mahsa_park"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFUn0GA10hXNgxypuWmRbrzELaDQ8rhv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

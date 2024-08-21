@@ -1,0 +1,52 @@
+name: mahsa_park
+description: A Flutter app to track car check-in, check-out, and payment status based on the license plate number.
+
+# The following defines the version and build number for your application.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.3.0
+  cloud_firestore: ^4.3.0
+  provider: ^6.0.4
+  url_launcher: ^6.2.6
+  flutter_stripe: ^9.0.0
+  http: ^0.13.3
+  stripe_android: 9.4.0
+  intl: ^0.19.0
+  smooth_page_indicator: ^1.0.0+2
+  
+file_picker: ^5.0.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mockito: ^5.3.2
+  build_runner: ^2.3.3
+  flutter_driver:
+    sdk: flutter
+  test: ^1.20.1
+
+flutter:
+  uses-material-design: true
+
+  # Define assets
+  assets:
+    - assets/qr_code.png
+    - assets/welcome1.png
+    - assets/welcome2.png
+    - assets/welcome3.png
+    - assets/welcome4.png
+  # Define fonts
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: fonts/Roboto-Regular.ttf
+        - asset: fonts/Roboto-Bold.ttf
+          weight: 700
+
+# Other settings should not be placed here
+
